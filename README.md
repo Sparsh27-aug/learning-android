@@ -5,3 +5,6 @@ https://medium.com/@sparshaggarwal27/day-1-learning-android-4dcd7f1a2a26?sk=a47e
 Day 2:
 This can be stated as the first actual step in learning android because today I literally starting using android studio software in making my own application. It was all basic basic things done today like designing the app window with images and button, aligning the elements and finally running the app on the virtual phone.
 https://medium.com/@sparshaggarwal27/day-2-learning-android-ec6df4c6d524
+Day 3:
+So we are finally done with making a very very basic app which even has a little processing. I even learned how to share that to others but yaa thats not safe and secured.This was really nice to make an app although it was nothing just a simple thing but it kicks you to learn more and proceed further.
+https://medium.com/@sparshaggarwal27/day-3-learning-android-86b681e78bb5
