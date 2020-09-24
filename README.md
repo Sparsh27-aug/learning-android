@@ -8,3 +8,6 @@ https://medium.com/@sparshaggarwal27/day-2-learning-android-ec6df4c6d524
 Day 3:
 So we are finally done with making a very very basic app which even has a little processing. I even learned how to share that to others but yaa thats not safe and secured.This was really nice to make an app although it was nothing just a simple thing but it kicks you to learn more and proceed further.
 https://medium.com/@sparshaggarwal27/day-3-learning-android-86b681e78bb5
+Day 4:
+After making a very basic app in the past three day, the fourth day is all about learning more tools and features of the android studio. Today we have not started making some other application rather we have focussed more on learning the layouts that makes our work easy and takes less time!
+https://medium.com/@sparshaggarwal27/day-4-learning-android-3d28973f7596
