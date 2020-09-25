@@ -11,3 +11,6 @@ https://medium.com/@sparshaggarwal27/day-3-learning-android-86b681e78bb5
 Day 4:
 After making a very basic app in the past three day, the fourth day is all about learning more tools and features of the android studio. Today we have not started making some other application rather we have focussed more on learning the layouts that makes our work easy and takes less time!
 https://medium.com/@sparshaggarwal27/day-4-learning-android-3d28973f7596
+Day 5:
+This is the day we have started making a real life app which is full responsive. We are making a TIC-TAC-TOE game app, that really sounds great!!
+https://medium.com/@sparshaggarwal27/day-5-learning-android-848e825deb19
