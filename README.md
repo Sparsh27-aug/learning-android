@@ -14,3 +14,6 @@ https://medium.com/@sparshaggarwal27/day-4-learning-android-3d28973f7596
 Day 5:
 This is the day we have started making a real life app which is full responsive. We are making a TIC-TAC-TOE game app, that really sounds great!!
 https://medium.com/@sparshaggarwal27/day-5-learning-android-848e825deb19
+Day 6:
+Second day in the making of the TIC-TAC-TOE app. Some settings took a little time in solving so there is not much done today.
+https://medium.com/@sparshaggarwal27/day-6-learning-android-e88d59e03875
