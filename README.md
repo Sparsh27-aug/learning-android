@@ -17,3 +17,6 @@ https://medium.com/@sparshaggarwal27/day-5-learning-android-848e825deb19
 Day 6:
 Second day in the making of the TIC-TAC-TOE app. Some settings took a little time in solving so there is not much done today.
 https://medium.com/@sparshaggarwal27/day-6-learning-android-e88d59e03875
+Day 7:
+Third day in the making of the TIC-TAC-TOE app and we are finally done with writing some code in the java file and the app is processing accordingly.
+https://medium.com/@sparshaggarwal27/day-7-learning-android-9672669cc128
